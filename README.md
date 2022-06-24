@@ -1,5 +1,5 @@
 - 👋 Hi there!
-- 👀 I’m interested in Bioinformatics and Data Analysis.
+- 👀 I’m interested in Bioinformatics and Data Science.
 
 <!---
 gntoulaveris/gntoulaveris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

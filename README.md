@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Completing a M.Sc. in Data Science and Information Technologies<br>🌱 Currently learning SQL and PowerBI<br>🐝 Open for collaboration in interesting Data Science and ML projects<br>🌿 All of my projects are available here
+🔭 Data Analyst at P&G<br>🔭 M.Sc. in Data Science and Information Technologies<br>🐝 Open for collaboration in interesting Data Science and ML projects<br>🌿 All of my projects are available here
 
 
 ## 🌐 Socials:
